@@ -1,0 +1,13 @@
+{
+  "name": "schema-rules",
+  "owner": {
+    "name": "MargaretRaven"
+  },
+  "plugins": [
+    {
+      "name": "schema-rules",
+      "source": "./",
+      "description": "Правила отрисовки схем Битрикс24 в draw.io."
+    }
+  ]
+}
